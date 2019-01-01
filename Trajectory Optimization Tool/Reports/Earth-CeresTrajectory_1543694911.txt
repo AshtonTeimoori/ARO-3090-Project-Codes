@@ -1,0 +1,33 @@
+TRAJECTORY OPTIMIZATION TOOL v2
+Optimization Report - 01-Dec-2018 20:08:30
+Flight Plan: Earth-Ceres Trajectory
+----------------------------------------------------------------
+
+
+RESULTS
+--------------------------------
+OPTIMUM EARTH DEPARTURE DATE: 5/31/2034 3:0:10 - C3: 40.8146 km²/sec²
+OPTIMUM CERES ARRIVAL DATE: 11/26/2035 23:51:55 - Body-centric Arrival Velocity: 5.768 km/sec
+
+TOTAL COST: 46.5826007
+
+
+ORBITAL ELEMENTS - J2000 Ecliptic Reference Frame
+--------------------------------
+LEG 1 (Number of Full Revolutions: 0)
+-Semi-major Axis: 281275803.2400950 km
+-Eccentricity: 0.4608863
+-Inclination: 0.0841761 deg
+-Long. of Ascending Node: 72.1676820 deg
+-Argument of Periapse: 175.7272027 deg
+-True Anomaly (start): 1.3979257 deg
+-True Anomaly (end): 192.1088956 deg
+
+
+
+GENETIC ALGORITHM INFORMATION
+--------------------------------
+Termination Reason: Magnitude of step smaller than machine precision. 
+Number of Generations Computed: 6.0 
+Number of Fitness Function Evaluations: 314046.0 
+Random Number Generator Type: mt19937ar 
